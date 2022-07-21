@@ -1,0 +1,36 @@
+#button {
+  border-radius: 5px;
+  margin: 5px;
+  background-color: #bbb;
+  border: 1px solid #222;
+  padding: 5px 20px;
+  cursor: pointer;
+  width: 255px;
+}
+
+.input {
+  margin: 5px;
+  border: 1px solid #222;
+  border-radius: 5px;
+  padding: 2px;
+  width: 250px;
+}
+
+.action {
+  margin-left: 15px;
+}
+label{
+  font-weight: bold;
+  margin:15px 3px 15px 15px;
+}
+
+
+#button-color {
+  border-radius: 5px;
+  margin: 25px 5px;
+  background-color: #f00;
+  border: 1px solid #222;
+  padding: 5px 20px;
+  cursor: pointer;
+  width: 250px;
+}
